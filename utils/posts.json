@@ -1,0 +1,67 @@
+[{
+        "id": 1,
+        "thumbnail": "/thumbnail-2.png",
+        "category": "UX Research",
+        "date": "Sunday, 11 Feb 2022",
+        "title": "How to design a product design that can grow so fast",
+        "shortDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia voluptatum voluptate consequatur labore in sed atque libero debitis optio ea?",
+        "authorName": "Bang Iyan",
+        "authorJob": "UX Researcher",
+        "authorAvatar": "/author-2.png"
+    },
+    {
+        "id": 2,
+        "thumbnail": "/thumbnail-3.png",
+        "category": "UI Design",
+        "date": "Sunday, 11 Feb 2022",
+        "title": "Guide to make Clean UI Design on Trends 2022",
+        "shortDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia voluptatum voluptate consequatur labore in sed atque libero debitis optio ea?",
+        "authorName": "Muhammad Fakhrian Ikhwaludin",
+        "authorJob": "Sr. Front-End Developer",
+        "authorAvatar": "/author-3.png"
+    },
+    {
+        "id": 3,
+        "thumbnail": "/thumbnail-4.png",
+        "category": "UX Research",
+        "date": "Sunday, 11 Feb 2022",
+        "title": "Case Study: UI/UX Redesign for Reducing User’s Stress Level",
+        "shortDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia voluptatum voluptate consequatur labore in sed atque libero debitis optio ea?",
+        "authorName": "Mudarian",
+        "authorJob": "Devops Engineer",
+        "authorAvatar": "/author-4.png"
+    },
+    {
+        "id": 4,
+        "thumbnail": "/thumbnail-4.png",
+        "category": "UI Design",
+        "date": "Sunday, 11 Feb 2022",
+        "title": "How to improve your UI design skills in 5 minutes a day",
+        "shortDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia voluptatum voluptate consequatur labore in sed atque libero debitis optio ea?",
+        "authorName": "Rianudin",
+        "authorJob": "Chief Finance Officer",
+        "authorAvatar": "/author-4.png"
+    },
+    {
+        "id": 5,
+        "thumbnail": "/thumbnail-5.png",
+        "category": "UX Research",
+        "date": "Sunday, 11 Feb 2022",
+        "title": "Case Study: Gamification feature for mobile e-learning apps",
+        "shortDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia voluptatum voluptate consequatur labore in sed atque libero debitis optio ea?",
+        "authorName": "Kang Iyan",
+        "authorJob": "Chief Technology Officer",
+        "authorAvatar": "/author-2.png"
+    },
+    {
+        "id": 6,
+        "thumbnail": "/thumbnail-7.png",
+        "category": "UX Research",
+        "date": "Sunday, 11 Feb 2022",
+        "title": "Everything you should know about 8 point grid system in UX design",
+        "shortDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia voluptatum voluptate consequatur labore in sed atque libero debitis optio ea?",
+        "authorName": "Udin Rian",
+        "authorJob": "Cloud Engineer",
+        "authorAvatar": "/author-4.png"
+    }
+]
