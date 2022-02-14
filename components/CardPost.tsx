@@ -1,7 +1,7 @@
 import InfoPost from "@components/InfoPost"
 import Link from "next/link"
 
-export default function CardPost({thumbnail, ...infoPost}) {
+export default function CardPost({thumbnail, ...infoPost}:any) {
     return (
         <article>
             <Link href="/detail">
